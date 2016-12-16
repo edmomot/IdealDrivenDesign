@@ -1,9 +1,9 @@
 
-Step 1
+##Step 1
 Set Deadlines
 
-Step 2
+##Step 2
 Begin development
 
-Step 3
+##Step 3
 Gather requirements
